@@ -5,14 +5,12 @@ class Solution {
         int end = 0;
         int length = 0;
         while(end<s.length()){
-            int var = s.charAt(end);
-            arr[var]++;
-            // length++;
-            while(arr[var]>1){
-                int d = s.charAt(start);
-                arr[d]--;
+            // int var = s.charAt(end);
+            arr[(int)(s.charAt(end))]++;
+            while(arr[(int)(s.charAt(end))]>1){
+                // int d = s.charAt(start);
+                arr[(int)(s.charAt(start))]--;
                 start++;
-                // length--;
             }
             length = Math.max(length,end-start+1);
             end++;
