@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0076-minimum-window-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0217-contains-duplicate) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
