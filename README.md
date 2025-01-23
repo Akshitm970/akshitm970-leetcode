@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0069-sqrtx) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -67,4 +68,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2481-strictly-palindromic-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
