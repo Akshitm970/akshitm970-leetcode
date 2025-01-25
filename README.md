@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0031-next-permutation) |
 | [2128-reverse-prefix-of-word](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2128-reverse-prefix-of-word) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
