@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0217-contains-duplicate) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Brainteaser
 |  |
 | ------- |
