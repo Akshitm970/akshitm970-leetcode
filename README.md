@@ -142,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
