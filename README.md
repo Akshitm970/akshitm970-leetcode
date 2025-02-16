@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0076-minimum-window-substring) |
+| [1205-defanging-an-ip-address](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1651-shuffle-string](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1651-shuffle-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
