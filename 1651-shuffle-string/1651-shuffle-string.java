@@ -5,10 +5,11 @@ class Solution {
             int pos = indices[i];
             arr[pos] = s.charAt(i);
         }
-        String st = "";
-        for(int i = 0;i<arr.length;i++){
-            st = st+arr[i];
-        }
-        return st;
+        // String st = "";
+        // for(int i = 0;i<arr.length;i++){
+        //     st = st+arr[i];
+        // }
+        // return st;
+        return new String(arr);
     }
 }
