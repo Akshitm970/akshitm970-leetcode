@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2128-reverse-prefix-of-word](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2825-minimize-string-length](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2825-minimize-string-length) |
 ## Sliding Window
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2825-minimize-string-length](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2825-minimize-string-length) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
