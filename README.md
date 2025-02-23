@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2481-strictly-palindromic-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2748-calculate-delayed-arrival-time](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 ## String
 |  |
 | ------- |
