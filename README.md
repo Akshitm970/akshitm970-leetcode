@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0584-find-customer-referee) |
 | [0627-swap-salary](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0627-swap-salary) |
+| [1301-reformat-department-table](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1301-reformat-department-table) |
 | [1523-capital-gainloss](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1734-bank-account-summary-ii) |
