@@ -14,4 +14,4 @@ sum(case when month = 'nov' then revenue else null end)as Nov_Revenue,
 sum(case when month = 'dec' then revenue else null end)as Dec_Revenue
 from Department 
 group by id
-order by id
+-- order by id
