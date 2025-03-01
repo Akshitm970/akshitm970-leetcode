@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3429-special-array-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2825-minimize-string-length](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2825-minimize-string-length) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Database
 |  |
 | ------- |
