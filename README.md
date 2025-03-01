@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2551-apply-operations-to-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2551-apply-operations-to-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Brainteaser
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Bit Manipulation
