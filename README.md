@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2825-minimize-string-length](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2825-minimize-string-length) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Brainteaser
 |  |
