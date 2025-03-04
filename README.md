@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0069-sqrtx) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2481-strictly-palindromic-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
