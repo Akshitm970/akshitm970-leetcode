@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2478-longest-nice-subarray](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2478-longest-nice-subarray) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2478-longest-nice-subarray) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0861-flipping-an-image) |
+| [2478-longest-nice-subarray](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2478-longest-nice-subarray) |
 ## Matrix
 |  |
 | ------- |
