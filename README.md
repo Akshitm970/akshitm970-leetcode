@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
