@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1137-height-checker](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1364-tuple-with-same-product](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0229-majority-element-ii) |
 | [0941-sort-array-by-parity](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0941-sort-array-by-parity) |
+| [1137-height-checker](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0229-majority-element-ii) |
+| [1137-height-checker](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1137-height-checker) |
 | [1364-tuple-with-same-product](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
