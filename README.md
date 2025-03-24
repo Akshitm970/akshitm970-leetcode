@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1651-shuffle-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2128-reverse-prefix-of-word](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2226-rings-and-rods](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2226-rings-and-rods) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2226-rings-and-rods](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2226-rings-and-rods) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2825-minimize-string-length](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2825-minimize-string-length) |
