@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3778-transform-array-by-parity](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3778-transform-array-by-parity](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3778-transform-array-by-parity](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3778-transform-array-by-parity) |
 ## Database
 |  |
 | ------- |
