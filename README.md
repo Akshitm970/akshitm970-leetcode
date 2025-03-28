@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0539-minimum-time-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0539-minimum-time-difference) |
 | [0861-flipping-an-image](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0069-sqrtx) |
+| [0539-minimum-time-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0076-minimum-window-substring) |
+| [0539-minimum-time-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0539-minimum-time-difference) |
 | [1205-defanging-an-ip-address](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0229-majority-element-ii) |
+| [0539-minimum-time-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0539-minimum-time-difference) |
 | [0941-sort-array-by-parity](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
