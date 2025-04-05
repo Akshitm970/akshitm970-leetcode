@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1651-shuffle-string) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1965-sum-of-digits-in-base-k) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2481-strictly-palindromic-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0861-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2507-number-of-common-factors](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Number Theory
@@ -257,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3226-minimum-number-game) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
