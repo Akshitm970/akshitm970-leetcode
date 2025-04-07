@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0416-partition-equal-subset-sum](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0539-minimum-time-difference) |
 | [0861-flipping-an-image](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0941-sort-array-by-parity) |
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
