@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3778-transform-array-by-parity](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [3227-find-missing-and-repeated-values](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
