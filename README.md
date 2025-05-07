@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0076-minimum-window-substring) |
+| [0389-find-the-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0539-minimum-time-difference) |
 | [1205-defanging-an-ip-address](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0389-find-the-difference) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1364-tuple-with-same-product](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0229-majority-element-ii) |
+| [0389-find-the-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0539-minimum-time-difference) |
 | [0941-sort-array-by-parity](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1137-height-checker) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0078-subsets) |
+| [0389-find-the-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0861-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
