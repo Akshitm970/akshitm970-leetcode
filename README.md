@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
