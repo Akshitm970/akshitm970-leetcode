@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0584-find-customer-referee) |
 | [0610-triangle-judgement](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0619-biggest-single-number) |
 | [0627-swap-salary](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0627-swap-salary) |
 | [1301-reformat-department-table](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1301-reformat-department-table) |
 | [1523-capital-gainloss](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1523-capital-gainloss) |
