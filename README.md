@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2041-the-latest-login-in-2020) |
+| [2110-employees-with-missing-information](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [3816-dna-pattern-recognition](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/3816-dna-pattern-recognition) |
 ## Queue
