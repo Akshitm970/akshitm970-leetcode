@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0069-sqrtx) |
+| [0342-power-of-four](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0078-subsets) |
+| [0342-power-of-four](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0861-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
