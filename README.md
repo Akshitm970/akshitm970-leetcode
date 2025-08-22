@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0069-sqrtx) |
+| [0292-nim-game](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0539-minimum-time-difference) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Stack
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0903-implement-rand10-using-rand7) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Akshitm970/akshitm970-leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
